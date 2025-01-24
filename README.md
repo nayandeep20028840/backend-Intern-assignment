@@ -117,7 +117,7 @@ docker run -p 8080:8080 server
 - Other Tools: Postman (for API testing).
 - Docker: Docker Desktop 4.28.0 
 
-## Future Improvements.
+# 6. Future Improvements
 - Implement caching (e.g., Redis) for frequently accessed data like job statuses.
 - Replace in-memory storage with a database like PostgreSQL for scalability.
 - Implement a message queue (e.g., RabbitMQ, Kafka) to handle job submission asynchronously for high throughput.
